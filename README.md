@@ -1,26 +1,36 @@
-### 👋 Hi, I’m @maxhelias
+# 👋 Hi, I’m Maxime Hélias (@maxhelias)
 
-My name is Maxime Hélias, I'm a software developper working mainly with Docker 🐋 & PHP 🐘.
-
----
-#### 👷 Check out what I'm currently working on ...
-
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony.
-- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) - Symfony bundle integrating Flysystem.
-- [odandb/doctrine-ciphersweet-encryption-bundle](https://github.com/odandb/doctrine-ciphersweet-encryption-bundle) - Symfony bundle for encrypting entity fields with Ciphersweet.
-- [odolbeau/phone-number-bundle](https://github.com/odolbeau/phone-number-bundle) - Integrates libphonenumber into you Symfony application.
-- [maxhelias/dotfiles-macos](https://github.com/maxhelias/dotfiles-macos) - Config files for my MacOS.
-- [maxhelias/php-nominatim](https://github.com/maxhelias/php-nominatim) - Wrapper for Nominatim API.
-- [maxhelias/docker-my-gis](https://github.com/maxhelias/docker-my-gis) - A Docker-based installer and runtime for WebGIS. *(Need rework)*
+Software developer passionate about PHP 🐘 and Docker 🐋 ecosystems. I actively contribute to open source and work on projects around Symfony, Geospatial, and Docker.
 
 ---
-#### 📊 My stats
 
-<img align="right" alt="maxhelias' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maxhelias&count_private=1&show_icons=true" />
+## 🚀 Current Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxhelias)
+**Infrastructure & Tooling**
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - Collaborator | Docker-based installer and runtime for Symfony
+- [maxhelias/dotfiles-macos](https://github.com/maxhelias/dotfiles-macos) - Maintainer | Personal MacOS configuration
+
+**Symfony Bundles**
+- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) - Collaborator | Flysystem integration for Symfony
+- [odolbeau/phone-number-bundle](https://github.com/odolbeau/phone-number-bundle) - Collaborator | libphonenumber integration for Symfony
+- [odandb/doctrine-ciphersweet-encryption-bundle](https://github.com/odandb/doctrine-ciphersweet-encryption-bundle) - Maintainer | Entity field encryption with CipherSweet
+
+**Geospatial & APIs**
+- [jsor/doctrine-postgis](https://github.com/jsor/doctrine-postgis) - Collaborator | Spatial and Geographic Data with PostGIS and Doctrine.
+- [maxhelias/php-nominatim](https://github.com/maxhelias/php-nominatim) - Maintainer | Wrapper for Nominatim API.
+- [maxhelias/docker-my-gis](https://github.com/maxhelias/docker-my-gis) - Maintainer | A Docker-based installer and runtime for WebGIS. *(🚧 Need rework)*
 
 ---
-#### 📫 How to reach me
 
-- Twitter: [@maxhelias](https://twitter.com/maxhelias)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxhelias&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhelias&layout=compact" alt="Most Used Languages" />
+</p>
+
+---
+
+## 💬 Get in Touch
+
+- 🐦 Twitter: [@maxhelias](https://twitter.com/maxhelias)
